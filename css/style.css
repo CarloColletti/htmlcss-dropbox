@@ -1,0 +1,27 @@
+/* header  */
+.header-main {
+	color: white;
+	background-color: blue;
+	z-index: 3;
+	position: fixed;
+	width: 100%;
+
+}
+
+.header-nav {
+	display: flex;
+	flex-grow: 1;
+	line-height: 30px;
+	justify-content: space-between;
+}
+
+.header-nav>* {
+	padding: 5px 10px;
+	padding: 1rem;
+	
+}
+
+ul li {
+	list-style-type: none;
+	display: inline-block;
+}
