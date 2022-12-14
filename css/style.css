@@ -40,7 +40,7 @@ h1{
 .jumbotron{
 	background-color: #b4d0e7;
 	/* debug */
-	height: 80vh;
+
 }
 
 .row-container{
@@ -97,3 +97,66 @@ h1{
 	background-color: blue;
 	border: 2px dashed white;
 }
+
+/* section operiazioni disponibili */
+
+.row-operation {
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 5rem;
+	justify-content: space-between;
+	row-gap: 30px;
+
+}
+
+.col-operation{
+	width: 30%;
+	position: relative;
+
+	/* debug */
+	height: 28rem;
+	background-color: blueviolet;
+	border: 2px dashed white;
+}
+
+/* sponsor */
+.sponsor-container{
+	background-color: bisque;
+	margin-top: 5rem;
+
+
+	/* debug */
+
+	height: 20rem;
+}
+
+.prov-yourserf{
+	background-color: #b4d0e7;
+	/* debug */
+	
+	height: 20rem;
+}
+
+/* domande e prova */
+.frequent-answare{
+	height: 50px;
+	background-color: beige;
+}
+
+
+/* footer  */
+ .row-footer{
+	display: flex;
+	
+
+ }
+
+ .col-footer{
+	background-color: orange;
+	width: 25%;
+
+	/* debug */
+	
+	border: 2px dashed white;
+	height: 10rem;
+ }
