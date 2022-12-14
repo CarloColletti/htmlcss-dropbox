@@ -25,3 +25,42 @@ ul li {
 	list-style-type: none;
 	display: inline-block;
 }
+
+
+/* jumbotron */
+h1{
+	
+	/* debug */
+	width: 100%;
+	height: 15rem;
+	background-color: aquamarine;
+	border: 1px solid black;
+}
+
+.jumbotron{
+	background-color: #b4d0e7;
+	/* debug */
+	height: 80vh;
+}
+
+.row-jumbotron{
+	display: flex;
+	/* debug */
+	height: 25rem;
+}
+
+.main-col {
+	flex-grow: 1;
+
+	/* debug */
+	background-color: cornflowerblue;
+	border: 2px dashed black;
+}
+
+.side-col {
+	flex-grow: 2;
+
+	/* debug */
+	background-color: pink;
+	border: 2px dashed black;
+}
