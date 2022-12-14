@@ -1,0 +1,17 @@
+/* Utils */
+
+.big-container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.big-container {
+	max-width: 100px;
+	margin: 0 auto;
+}
+
+.clearfix::after {
+	content: '';
+	clear: both;
+	display: table;
+}
