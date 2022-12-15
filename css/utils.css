@@ -38,6 +38,11 @@
 	border: 1px solid transparent;
 }
 
+/* disisiore per i pack */
+.full-line{
+	border-bottom: 2px solid #d5d5d8;
+}
+
 
 
 /* displayflex */
