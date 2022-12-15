@@ -60,12 +60,9 @@ section{
 
 .jumbotron h1{
 	font-size: 6rem;
+	margin-bottom: 3rem;
 	width: 100%;
 }
-
-/* .row-container{
-	display: flex;
-} */
 
 .jumbotron>.big-container{
 	position: relative;
@@ -163,16 +160,22 @@ section{
 	text-align: center;
 }
 
+/* pack-enterprice */
 
-.enterprice{
-	width: 100%;
-	position: relative;
-
-	/* debug */
-	margin-top: 5rem;
-	background-color: blue;
-	border: 2px dashed white;
+.pack-enterprice{
+	margin-top: 3rem;
+	border: 2px solid #d5d5d8;
 }
+
+.pack-enterprice .flex-dispay  h4
+{
+	font-size: 2rem;
+}
+
+.pack-enterprice .flex-dispay  div:first-child {
+	font-size: 1rem;
+}
+
 
 /* section operiazioni disponibili */
 
