@@ -36,6 +36,14 @@
 	background-color: #0061ff;
 	color: white;
 	border: 1px solid transparent;
+	text-decoration: none;
+}
+
+.btn-secondary{
+	background-color: white;
+	color: #d5d5d8;
+	border: 1px solid #d5d5d8;
+	text-decoration: none;
 }
 
 /* disisiore per i pack */
@@ -44,6 +52,31 @@
 	text-align: center;
 	padding: 0.5rem;
 }
+
+
+/* margin */
+.mg-up{
+	margin-top: 10rem;
+}
+
+.mg-bottom {
+	margin-bottom: 10rem;
+}
+
+.mg-up-small {
+	margin-top: 5rem;
+}
+
+.mg-bottom-small {
+	margin-bottom: 5rem;
+}
+
+
+/* padding */
+.pd-left{
+	padding-left: 3rem;
+}
+
 
 
 
