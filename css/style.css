@@ -100,7 +100,6 @@ h1{
 	position: relative;
 
 	/* debug */
-	height: 15rem;
 	margin-top: 5rem;
 	background-color: blue;
 	border: 2px dashed white;
@@ -126,6 +125,9 @@ h1{
 	background-color: blueviolet;
 	border: 2px dashed white;
 }
+/* section partener */
+
+
 
 /* sponsor */
 .sponsor-container{
