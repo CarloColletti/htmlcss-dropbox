@@ -1,5 +1,7 @@
 /* Utils */
 
+
+/* container */
 .big-container {
 	max-width: 1200px;
 	margin: 0 auto;
@@ -9,6 +11,44 @@
 	max-width: 1000px;
 	margin: 0 auto;
 }
+
+/* width */
+.w-30{
+	width: 30%;
+}
+
+.w-70 {
+	width: 70%;
+}
+
+/* btn */
+
+.btn{
+	background-color: white;
+	color: black;
+	display: inline-block;
+	border: 1px solid transparent;
+	padding: 10px 20px;
+
+}
+
+.btn-primal{
+	background-color: #0061ff;
+	color: white;
+	border: 1px solid transparent;
+}
+
+
+
+/* displayflex */
+.flex-display{
+	display: flex;
+}
+
+
+
+
+/* .clearfix */
 
 .clearfix::after {
 	content: '';
