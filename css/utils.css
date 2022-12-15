@@ -32,7 +32,7 @@
 
 }
 
-.btn-primal{
+.btn-primary{
 	background-color: #0061ff;
 	color: white;
 	border: 1px solid transparent;
@@ -41,6 +41,7 @@
 /* disisiore per i pack */
 .full-line{
 	border-bottom: 2px solid #d5d5d8;
+	text-align: center;
 }
 
 
