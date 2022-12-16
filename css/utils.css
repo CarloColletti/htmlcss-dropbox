@@ -54,11 +54,19 @@
 	text-decoration: none;
 }
 
-/* disisiore per i pack */
+/* divisore per i pack */
 .full-line{
 	border-bottom: 2px solid #d5d5d8;
 	text-align: center;
 	padding: 0.5rem;
+}
+
+.line-hr{
+	width: 10%;
+}
+.line-hr-large {
+	width: 20%;
+	color: #d5d5d8;
 }
 
 
@@ -84,6 +92,7 @@
 .pd-left{
 	padding-left: 3rem;
 }
+
 
 
 

@@ -236,9 +236,24 @@ ul li a{
 
 
 /* domande e prova */
-.frequent-answare{
-	height: 50px;
-	background-color: beige;
+.frequent-answare h2{
+	margin-bottom: 4rem;
+	font-size: 3rem;
+}
+
+.box-detail{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.answare-detail-hover{
+	display: none;
+}
+
+.answare-detail-hover:hover {
+	display: block;
 }
 
 
