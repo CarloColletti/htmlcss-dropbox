@@ -248,12 +248,24 @@ ul li a{
 	padding-bottom: 2rem;
 }
 
+.box-detail :first-child {
+	font-weight: bolder;
+
+}
+
 .answare-detail-hover{
 	display: none;
 }
 
-.answare-detail-hover:hover {
-	display: block;
+div:hover .answare-detail-hover {
+	display: inline-block;
+}
+div:hover .answare-detail {
+	display: none;
+}
+
+.detail-arrow p{
+	padding-top: 2rem;
 }
 
 
