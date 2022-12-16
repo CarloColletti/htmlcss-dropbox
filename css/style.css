@@ -243,18 +243,38 @@ ul li a{
 
 
 /* footer  */
- .row-footer{
+footer{
+	background-color: black;
+	color: white;
+}
+
+
+.row-footer{
 	display: flex;
+	padding-top: 8rem;
+	padding-bottom: 6rem;
 	
 
- }
+}
 
- .col-footer{
-	background-color: orange;
+.col-footer{
 	width: 25%;
 
-	/* debug */
+}
+.col-footer h3{
+	font-size: 1.8rem;
+	padding-bottom: 1rem;
+
+}
+
+.col-footer ul li {
+	display: block;
+	font-size: 1.2rem;
+	padding-bottom: 1rem;
 	
-	border: 2px dashed white;
-	height: 10rem;
- }
+}
+
+.language{
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+}
