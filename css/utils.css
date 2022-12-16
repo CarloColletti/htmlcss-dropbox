@@ -54,6 +54,7 @@
 	text-decoration: none;
 }
 
+
 /* divisore per i pack */
 .full-line{
 	border-bottom: 2px solid #d5d5d8;
@@ -93,6 +94,38 @@
 	padding-left: 3rem;
 }
 
+/* color scquare partners */
+
+
+.color-square-designit{
+	background-color: #a2d39b;
+	border: 1.2rem solid #d1e9cd;
+}
+
+.color-square-arizona {
+	background-color: #61082b;
+}
+
+.color-square-florida {
+	background-color: #0093ce;
+}
+
+.color-square-topps {
+	background-color: #ff1c1c;
+}
+
+.color-square-world {
+	background-color: #d5001f;
+}
+.color-square-hearts {
+	background-color: #b4d0e7;
+}
+.color-square-lonely {
+	background-color: #0d2481;
+}
+.color-square-clear {
+	background-color: #ffd830;
+}
 
 
 

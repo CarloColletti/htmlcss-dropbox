@@ -202,18 +202,30 @@ ul li a{
 
 /* partner */
 
-.space{
-	justify-content: space-between;
+.main-square {
+	background-color: #f8f8f8;
+	padding-left: 2rem;
+	padding-right: 2rem;
 }
+
+.main-square img{
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+
 .logo-scquare{
-	width: 14vw;
-	height: 14vw;
-	line-height: 13vw;
+	width: 50%;
+	height: 15vw;
+	line-height: 15vw;
+	text-align: center;
+	
 }
 
 .logo-scquare img{
-	width: 50%;
 	object-fit: cover;
+	width: 50%;
+	/* filter: invert(); */
 }
 
 /* porta dopbox */
