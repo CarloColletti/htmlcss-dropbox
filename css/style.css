@@ -257,10 +257,10 @@ ul li a{
 	display: none;
 }
 
-div:hover .answare-detail-hover {
+div :hover .answare-detail-hover {
 	display: inline-block;
 }
-div:hover .answare-detail {
+div :hover .answare-detail {
 	display: none;
 }
 
